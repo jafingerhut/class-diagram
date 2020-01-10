@@ -1,0 +1,2 @@
+{:paths ["src"]
+ :deps {rhizome {:mvn/version "0.1.9"}}}
